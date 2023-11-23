@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My_player</string>
+    <string name="previous">previous</string>
+    <string name="play">play</string>
+    <string name="next">next</string>
+    <string name="image_volume">image_volume</string>
+</resources>
